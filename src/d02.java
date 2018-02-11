@@ -7,6 +7,6 @@ public class d02 {
 
     public static void ft_print_alphabet() {
 
-        System.out.println("abcdefghijklmnopqrstuvwxy");
+        System.out.println("abcdefghijklmnopqrstuvwxyz");
     }
 }
